@@ -1,5 +1,3 @@
-# SECURITY-TESTING-AUTOMATION
-
 # Security Testing Project – OWASP Juice Shop
 
 ## 🔐 Tool Used
