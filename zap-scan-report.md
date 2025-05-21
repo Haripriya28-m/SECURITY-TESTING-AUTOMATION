@@ -52,7 +52,7 @@ Here are some general remediation recommendations for common issues:
 
 Below is a screenshot of the scan result from OWASP ZAP:
 
-![Screenshot](screenshot.png)
+![Image](https://github.com/user-attachments/assets/6b8753cb-254e-438a-a1ab-f4aa0a64a67e)
 
 ## 📝 Conclusion
 
